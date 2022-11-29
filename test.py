@@ -38,3 +38,5 @@ while (s != s_last):
 # print(s)
 print(f"Number of generated k-mers: {counter}")
 print("Finish!")
+
+print('test')
