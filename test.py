@@ -40,3 +40,4 @@ print(f"Number of generated k-mers: {counter}")
 print("Finish!")
 
 print('test')
+#test version 2
